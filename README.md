@@ -5,8 +5,9 @@ Django, Sqlite3, Bootstrap, Django AllAuth, Django Countries
 Проект разработан на основе фреймворка Django, используемая БД SQLite, вёрстка на основе Bootstrap 4.
 Приложение является полноценным интерент-магазином (привязка систем оплат в процессе).
 
-(/screenshots/main.png)
-(/screenshots/main2.png)
+![Вход на сайт](/screenshots/main.png)
+
+![Вход на сайт](/screenshots/main2.png)
 
 Приложение позволяет пользователю:
 - регистрироваться и авторизовываться пользователям (django-allauth)
