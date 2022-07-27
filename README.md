@@ -7,7 +7,7 @@ Django, Sqlite3, Bootstrap, Django AllAuth, Django Countries
 
 ![Вход на сайт](/screenshots/main.png)
 
-![Вход на сайт](/screenshots/main2.png)
+![Вход на сайт](/screenshots/product.png)
 
 Приложение позволяет пользователю:
 - регистрироваться и авторизовываться пользователям (django-allauth)
@@ -29,6 +29,12 @@ Django, Sqlite3, Bootstrap, Django AllAuth, Django Countries
 - /product/<pk>/ - карточка товара
 - /order-summary/ - список выбранных товаров внутри корзины
 - /checkout/ - форма для отправки товара
+
+![Вход на сайт](/screenshots/main2.png)
+![ВКарточка товара](/screenshots/product.png)
+![Корзина](/screenshots/order.png)
+![Форма отправки](/screenshots/checkout.png)
+
 
 Чтобы скопировать проект и запустить его у себя:
 
